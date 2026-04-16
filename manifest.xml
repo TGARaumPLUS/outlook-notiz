@@ -2,7 +2,7 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:type="MailApp">
-  <Id>a1b2c3d4-e5f6-7890-abcd-ef1234567890</Id>
+  <Id>f7e6d5c4-b3a2-9180-fedc-ba9876543210</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>TGARaumPLUS</ProviderName>
   <DefaultLocale>de-DE</DefaultLocale>
